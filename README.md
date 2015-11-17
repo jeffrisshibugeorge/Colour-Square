@@ -1,7 +1,7 @@
 # Colour-Square
-open arduino, 
+Open arduino, 
 open file - examples - Firmata - StandardFirmata,
 upload the code to arduino. 
-open processing, 
+Open processing, 
 run the .pydefile,
 run the code. 
